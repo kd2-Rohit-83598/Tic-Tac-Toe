@@ -5,19 +5,25 @@ Welcome to the Tic Tac Toe Game repository! This project is a simple implementat
 
 # Features
 1.Two-player mode: Play with a friend locally.
+
 2.Simple UI: Clean and intuitive user interface.
+
 3.Game state management: Keeps track of player turns and game state.
+
 4.Winning detection: Automatically detects the winner or a draw.
+
 5.Restart option: Easily restart the game to play again.
 
 # Technologies Used
 Programming Language: Html,Css,JavaScript
+
 Tools:  Visual Studio Code
 
 # Getting Started
 Prerequisites -:
 
 Before you begin, ensure you have met the following requirements:
+
 Web browser (e.g., Chrome, Firefox, Safari)
 
 # Running the Game
@@ -26,9 +32,13 @@ To start the game, simply open the index.html file in your web browser.
 # Playing the Game -:
 
 1.The game starts with an empty 3x3 grid.
+
 2.Player 1 uses 'X' and Player 2 uses 'O'.
+
 3.Players take turns to mark an empty cell.
+
 4.The game checks for a winner or a draw after each move.
+
 5.The game announces the winner or if it's a draw and provides an option to restart.
 
 # UI Images -:
